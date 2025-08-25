@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Christian</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 18px;
+      line-height: 1.7;
+      color: #333;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+    strong {
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+  <p><strong>Ciao! Sono Christian</strong>, ho 26 anni e da sempre ho una grande passione per l’informatica. Questa passione mi ha portato a trasformarla nel mio lavoro: oggi sono tecnico informatico in <strong>Breunor</strong>, un’azienda leader nel settore dei PC da gaming.</p>
+
+  <p>All’interno dell’azienda ho avuto la possibilità di crescere molto, non solo sul lato tecnico, ma anche in ambiti creativi e comunicativi. Con <strong>David</strong>, il titolare, ho avviato il progetto TikTok di Breunor, che ci ha portato a raggiungere un pubblico enorme e a collaborare con realtà importanti, fino ad arrivare ad artisti come <strong>Geolier</strong>. Ho poi avuto la possibilità di chiudere accordi con la <strong>Stream House di Teknoyd</strong> e con creator come <strong>St3pny, Blink46, Nezak, Walter Antonucci, Alveyac</strong> e tanti altri.</p>
+
+  <p>Negli ultimi tempi mi sto dedicando anche alla realizzazione di video, editing e grafica, per supportare l’azienda e allo stesso tempo migliorarmi in nuove competenze. Mi piace sperimentare, imparare cose nuove e mettermi sempre in gioco.</p>
+
+  <p>In poche parole, il mio lavoro è la combinazione perfetta tra passione per l’informatica e voglia di crescere ogni giorno, cercando sempre di dare il massimo e divertirmi in quello che faccio.</p>
+</body>
+</html>
